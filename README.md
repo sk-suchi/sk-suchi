@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFvM21tOWd4djczZGdrMGd4cmt5bnc0ODZnc21zZjQ3bW5jMTlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="sk-suchi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk-suchi" alt="sk-suchi" /></a> </p>
+
 
 - 🔭 I’m currently working on [Emergency Hotline Project](https://sk-suchi.github.io/Project_Emergency_Hotline/)
 
