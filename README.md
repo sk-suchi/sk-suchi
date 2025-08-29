@@ -5,8 +5,6 @@
 
 
 
-- 🔭 I’m currently working on [Emergency Hotline Project](https://sk-suchi.github.io/Project_Emergency_Hotline/)
-
 - 🌱 I’m currently learning **React, Machine Learning And Deep Learning.**
 
 - 💬 Ask me about **HTML, JS, CSS, ML**
